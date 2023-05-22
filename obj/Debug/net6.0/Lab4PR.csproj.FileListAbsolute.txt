@@ -1,0 +1,15 @@
+C:\Users\Alexandru\source\repos\Lab4PR\bin\Debug\net6.0\Lab4PR.exe
+C:\Users\Alexandru\source\repos\Lab4PR\bin\Debug\net6.0\Lab4PR.deps.json
+C:\Users\Alexandru\source\repos\Lab4PR\bin\Debug\net6.0\Lab4PR.runtimeconfig.json
+C:\Users\Alexandru\source\repos\Lab4PR\bin\Debug\net6.0\Lab4PR.dll
+C:\Users\Alexandru\source\repos\Lab4PR\bin\Debug\net6.0\Lab4PR.pdb
+C:\Users\Alexandru\source\repos\Lab4PR\obj\Debug\net6.0\Lab4PR.csproj.AssemblyReference.cache
+C:\Users\Alexandru\source\repos\Lab4PR\obj\Debug\net6.0\Lab4PR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandru\source\repos\Lab4PR\obj\Debug\net6.0\Lab4PR.AssemblyInfoInputs.cache
+C:\Users\Alexandru\source\repos\Lab4PR\obj\Debug\net6.0\Lab4PR.AssemblyInfo.cs
+C:\Users\Alexandru\source\repos\Lab4PR\obj\Debug\net6.0\Lab4PR.csproj.CoreCompileInputs.cache
+C:\Users\Alexandru\source\repos\Lab4PR\obj\Debug\net6.0\Lab4PR.dll
+C:\Users\Alexandru\source\repos\Lab4PR\obj\Debug\net6.0\refint\Lab4PR.dll
+C:\Users\Alexandru\source\repos\Lab4PR\obj\Debug\net6.0\Lab4PR.pdb
+C:\Users\Alexandru\source\repos\Lab4PR\obj\Debug\net6.0\Lab4PR.genruntimeconfig.cache
+C:\Users\Alexandru\source\repos\Lab4PR\obj\Debug\net6.0\ref\Lab4PR.dll
